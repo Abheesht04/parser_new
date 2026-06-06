@@ -28268,7 +28268,7 @@
                 },
                 {
                   "type": "String",
-                  "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+                  "text": "Power symbol creates a global label with name \"+3V3\""
                 },
                 {
                   "type": "List",
@@ -29456,7 +29456,7 @@
                 },
                 {
                   "type": "String",
-                  "text": "Power symbol creates a global label with name \\\"+5V\\\""
+                  "text": "Power symbol creates a global label with name \"+5V\""
                 },
                 {
                   "type": "List",
@@ -30644,7 +30644,7 @@
                 },
                 {
                   "type": "String",
-                  "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+                  "text": "Power symbol creates a global label with name \"GND\" , ground"
                 },
                 {
                   "type": "List",
@@ -48493,7 +48493,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -51797,7 +51797,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -52465,7 +52465,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -54560,7 +54560,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+5V\\\""
+              "text": "Power symbol creates a global label with name \"+5V\""
             },
             {
               "type": "List",
@@ -56590,7 +56590,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -58633,7 +58633,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+5V\\\""
+              "text": "Power symbol creates a global label with name \"+5V\""
             },
             {
               "type": "List",
@@ -59301,7 +59301,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -59969,7 +59969,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -60637,7 +60637,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -61318,7 +61318,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -62940,7 +62940,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -64983,7 +64983,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -65664,7 +65664,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -66345,7 +66345,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -67013,7 +67013,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+5V\\\""
+              "text": "Power symbol creates a global label with name \"+5V\""
             },
             {
               "type": "List",
@@ -68401,7 +68401,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -69069,7 +69069,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -72747,7 +72747,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -73415,7 +73415,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -74764,7 +74764,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -75445,7 +75445,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -76113,7 +76113,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -76781,7 +76781,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",
@@ -79934,7 +79934,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -81322,7 +81322,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"+3V3\\\""
+              "text": "Power symbol creates a global label with name \"+3V3\""
             },
             {
               "type": "List",
@@ -83417,7 +83417,7 @@
             },
             {
               "type": "String",
-              "text": "Power symbol creates a global label with name \\\"GND\\\" , ground"
+              "text": "Power symbol creates a global label with name \"GND\" , ground"
             },
             {
               "type": "List",

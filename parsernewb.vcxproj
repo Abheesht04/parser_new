@@ -139,14 +139,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dashboard.cpp" />
     <ClCompile Include="interpreter.cpp" />
     <ClCompile Include="lexer.cpp" />
+    <ClCompile Include="net_resolver.cpp" />
     <ClCompile Include="parser.cpp" />
     <ClCompile Include="parsernewb.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="C:\Users\chava\Downloads\imgui.h" />
+    <ClInclude Include="dashboard.h" />
     <ClInclude Include="interpreter.h" />
     <ClInclude Include="lexer.h" />
+    <ClInclude Include="net_resolver.h" />
     <ClInclude Include="parser.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
